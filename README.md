@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Established-2026-00C6FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Projects-4-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Projects-5-FF6B6B?style=for-the-badge" />
   </p>
 </div>
 
@@ -37,9 +37,9 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
 ## 🚀 Our Products
 
 <div align="center">
-   <table>
-     <tr>
-      <td align="center" width="50%">
+  <table>
+    <tr>
+      <td align="center" width="33%">
         <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1770444692/nrwd7u5ynlscyhenc3vf.png" width="80" />
         <h3>Idea2Project</h3>
         <p><strong>Turn Ideas into Structured Projects</strong></p>
@@ -52,8 +52,10 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
         <a href="https://idea2projectdemo.onrender.com/">
           <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
         </a>
-       </td>
-      <td align="center" width="50%">
+        <br/>
+        <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=flat&logo=github" />
+      </td>
+      <td align="center" width="33%">
         <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1770444843/vegjgnacfwmuz5zptt1a.png" width="80" />
         <h3>RepoPrep</h3>
         <p><strong>Clean & Prepare Your Repositories</strong></p>
@@ -66,10 +68,10 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
         <a href="https://repoprep.onrender.com/">
           <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
         </a>
-       </td>
-     </tr>
-     <tr>
-      <td align="center">
+        <br/>
+        <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=flat&logo=github" />
+      </td>
+      <td align="center" width="33%">
         <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1770444692/sndvcea14fqdmfx1f6q8.png" width="80" />
         <h3>LeakShield</h3>
         <p><strong>Offline Security Scanner</strong></p>
@@ -82,7 +84,27 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
         <a href="https://leakshield.onrender.com">
           <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
         </a>
-       </td>
+        <br/>
+        <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=flat&logo=github" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1777644756/zdmst5ng01o20lam01ou.png" width="80" />
+        <h3>LidBridge</h3>
+        <p><strong>Clean, Secure & Push to GitHub</strong></p>
+        <p>Desktop application that removes junk files, detects secrets (API keys, tokens), and pushes your cleaned project to GitHub — all in one click. No Git installation required.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust" />
+          <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+        </p>
+        <a href="https://lidbridge.onrender.com">
+          <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/License-GPL_3.0-blue?style=flat" />
+      </td>
       <td align="center">
         <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1770445034/su6ijgmayljogtmjshdt.png" width="80" />
         <h3>MGS-GenX</h3>
@@ -93,9 +115,11 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
           <img src="https://img.shields.io/badge/Streaming-Platform-red?style=flat" />
         </p>
         <img src="https://img.shields.io/badge/Launching_Soon-FF6B6B?style=for-the-badge" />
-       </td>
-     </tr>
-   </table>
+        <br/>
+        <img src="https://img.shields.io/badge/Closed_Source-FF0000?style=flat" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -107,10 +131,10 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css&theme=dark" />
   
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,rust&theme=dark" />
   
   <h3>Database & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,firebase&theme=dark" />
   
   <h3>Tools & DevOps</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
@@ -121,7 +145,7 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
 ## 🌟 Key Features Across Products
 
 <div align="center">
-   <table>
+  <table>
     <tr>
       <td>✅</td>
       <td><strong>Developer-First Design</strong></td>
@@ -147,8 +171,25 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
       <td><strong>Scalable Architecture</strong></td>
       <td>Built to grow with your needs</td>
     </tr>
+    <tr>
+      <td>🔓</td>
+      <td><strong>Open Source</strong></td>
+      <td>Most products are open source (GPL-3.0, MIT, Apache-2.0)</td>
+    </tr>
   </table>
 </div>
+
+---
+
+## 📜 Product List & Licensing
+
+| # | Product | Type | License | Repository |
+|---|---------|------|---------|-------------|
+| 1 | **Idea2Project** | Full-Stack Web App | Open Source | [GitHub](https://github.com/Lidprex/idea2project) |
+| 2 | **RepoPrep** | Desktop Tool | Open Source | [GitHub](https://github.com/Lidprex/RepoPrep) |
+| 3 | **LeakShield** | Security Scanner | Open Source | [GitHub](https://github.com/Lidprex/LeakShield) |
+| 4 | **LidBridge** | Desktop + Website | **GPL-3.0** | [GitHub](https://github.com/Lidprex/Lidbridge) |
+| 5 | **MGS-GenX** | Streaming Platform | Closed Source | — |
 
 ---
 
@@ -180,6 +221,11 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
   <p>
     <strong>© 2026 Lidprex™. All rights reserved.</strong><br/>
     All products and tools under the Lidprex brand are developed and maintained by the Lidprex team.
+  </p>
+  
+  <p>
+    <strong>LidBridge is released under the GNU General Public License v3.0 (GPL-3.0)</strong><br/>
+    Other products may have different open-source licenses.
   </p>
   
   <p>
