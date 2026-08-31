@@ -14,7 +14,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Established-2026-00C6FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Projects-5-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Projects-7-FF6B6B?style=for-the-badge" />
   </p>
 </div>
 
@@ -89,8 +89,8 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1777644756/zdmst5ng01o20lam01ou.png" width="80" />
+      <td align="center" width="33%">
+        <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1784021168/nkatmpgrqbglxqdsuqrc.png" width="80" />
         <h3>LidBridge</h3>
         <p><strong>Clean, Secure & Push to GitHub</strong></p>
         <p>Desktop application that removes junk files, detects secrets (API keys, tokens), and pushes your cleaned project to GitHub — all in one click. No Git installation required.</p>
@@ -105,6 +105,40 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
         <br/>
         <img src="https://img.shields.io/badge/License-GPL_3.0-blue?style=flat" />
       </td>
+      <td align="center" width="33%">
+        <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1780729750/c40lpnirfo78amweihd5.png" width="80" />
+        <h3>LidPush</h3>
+        <p><strong>Secure Repository Push Workflow</strong></p>
+        <p>Tauri + Rust + React desktop app for smart GitHub synchronization. Prepares, sanitizes, and delivers code to remote repositories with confidence — secrets scanning included.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust" />
+          <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        </p>
+        <a href="https://lidpush.onrender.com">
+          <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=flat&logo=github" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1784540146/an02lo0dlhz8gxzhhgws.png" width="80" />
+        <h3>Oathkeeper</h3>
+        <p><strong>Enforce Your Focus. Keep Your Word.</strong></p>
+        <p>Open-source behavioral accountability software for Windows. Blocks distracting websites, apps, and keywords, enforces time-locked commitments, and applies escalating consequences when you break your own rules.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus" />
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp" />
+          <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell" />
+        </p>
+        <a href="https://oathkeeper.onrender.com">
+          <img src="https://img.shields.io/badge/Visit_Website-00C6FF?style=for-the-badge" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Open_Source-2ea44f?style=flat&logo=github" />
+      </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://res.cloudinary.com/ddqedxovk/image/upload/v1770445034/su6ijgmayljogtmjshdt.png" width="80" />
         <h3>MGS-GenX</h3>
@@ -188,28 +222,33 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
 | 1 | **Idea2Project** | Full-Stack Web App | Open Source | [GitHub](https://github.com/Lidprex/idea2project) |
 | 2 | **RepoPrep** | Desktop Tool | Open Source | [GitHub](https://github.com/Lidprex/RepoPrep) |
 | 3 | **LeakShield** | Security Scanner | Open Source | [GitHub](https://github.com/Lidprex/LeakShield) |
-| 4 | **LidBridge** | Desktop + Website | **GPL-3.0** | [GitHub](https://github.com/Lidprex/Lidbridge) |
-| 5 | **MGS-GenX** | Streaming Platform | Closed Source | — |
+| 4 | **LidBridge** | Desktop Application | **GPL-3.0** | [GitHub](https://github.com/Lidprex/Lidbridge) |
+| 5 | **LidPush** | Desktop Application | Open Source | [GitHub](https://github.com/Lidprex/LidPush) |
+| 6 | **Oathkeeper** | Desktop Application (Windows) | **GPL-3.0** | [GitHub](https://github.com/Lidprex/Oathkeeper) |
+| 7 | **MGS-GenX** | Streaming Platform | Closed Source | — |
 
 ---
 
 ## 🤝 Connect With Us
 
 <div align="center">
-  <a href="https://www.youtube.com/@Ryder-XA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://lidprex.onrender.com/contact">
+    <img src="https://img.shields.io/badge/Contact_Lidprex-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/xavort/">
+  <a href="https://wa.me/213549987006">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/r/Lidprex/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lidprex/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/abdkadr_xt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.facebook.com/people/Lidprex/61587542765951/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:abdkadrxt100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1312189056469303438">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://gitlab.com/groups/lidprex">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </div>
 
@@ -224,7 +263,7 @@ Founded in 2026 by an independent development team, Lidprex serves as the parent
   </p>
   
   <p>
-    <strong>LidBridge is released under the GNU General Public License v3.0 (GPL-3.0)</strong><br/>
+    <strong>LidBridge and Oathkeeper are released under the GNU General Public License v3.0 (GPL-3.0)</strong><br/>
     Other products may have different open-source licenses.
   </p>
   
